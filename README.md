@@ -1,6 +1,6 @@
-# Russell Coles
+# Hi, I'm Russell! :wave:
 
-I'm a positive and proactive team player, actively looking to join a dynamic team where my desire to grow and develop will be fostered. The Makers bootcamp and my independent learning have given me a solid foundation in software engineering and inspired me to learn more about data engineering and cloud technologies. I am excited to know more and continue to improve both my technical competencies and the quality of my code by learning from more experienced colleagues and through the Data Engineering Apprenticeship course. My successful career in education has trained me to be an excellent communicator to a wide range of audiences; my understanding of the process of learning and my resilience when solving problems or approaching new challenges, have made retraining an exciting and fulfilling journey which I am keen to continue in my new role. 
+I'm an enthusiastic junior developer currently actively looking for work. Having completed a Bootcamp in Software Engineering at Makers, I'm really exciting about pushing my skills further when I join my first dev team. I'm currently working hard to increase my knowledge of the softwares I've used so far and extend my learning into aspects of cloud and data engineering. My previous career as a leader in education has given me strong commmunication and people skills, alongside the ability to organise myself and others well. I love a good challenge, and having taught people how to learn for many years, I am well able to learn new skills quickly myself.
 
 ## Technical Skills and Tools
 ### Front-End Development
@@ -37,13 +37,16 @@ I'm a positive and proactive team player, actively looking to join a dynamic tea
 
 ## Projects
 
-| Project          | Description                    | Tech/tools        |
-| ---------------- | -----------------              | ----------------- |
-| **MakersBnB**    | Team project creating a webapp to replicate AirBnB    | Python, HTML, Playwright, SQL |
-| **Acebook**      | Team project creating a webapp to replicate Facebook. | JavaScript, Jest, React, Mongodb  |
-| **Bird App** | Team project replicating some of the features of the RSPB Garden Bird Survey | Python, JavaScript, React, Vite, HTML, CSS, SQL |
-| **Wordle Clone** | Pair project recreating the Wordle game | Kotlin, Android Studio |
-| **Makers Store** | Team project creating a basic online store | Scala, Play, SQL |
+| Project          | Date | Description                    | Tech/tools        |
+| ---------------- | ---- |-----------------              | ----------------- |
+| [**Makers Store**](https://github.com/RussellColes/makers_projects_store_scala_play) | Feb/Mar 2025 | Team project creating a basic online store | ![Scala](https://img.shields.io/badge/Scala-E8D4D2?style=for-the-badge&logo=scala&logoColor=D73322) ![Play](https://img.shields.io/badge/Play-8ECB3A?style=for-the-badge&logo=play&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white) |
+| [**Wordle Clone**](https://github.com/RussellColes/makers_projects_wordle_clone) | Jan 2025 | Pair project recreating the Wordle game | ![Kotlin](https://img.shields.io/badge/Kotlin-7B68E4?style=for-the-badge&logo=kotlin&logoColor=white) ![AndroidStudio](https://img.shields.io/badge/Android_Studio-74B233?style=for-the-badge&logo=Android&logoColor=white) |
+| [**Bird App**](https://github.com/RussellColes/makers_projects_bird_app)     | Dec 2024 | Team project replicating some of the features of the RSPB Garden Bird Survey | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-EFD81B?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Vitest](https://img.shields.io/badge/Vitest-F4C129?style=for-the-badge&logo=vitest&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white) |
+| [**Acebook**](https://github.com/RussellColes/projects_makers_acebook)      | Nov/Dec 2024 | Team project creating a webapp to replicate Facebook. | ![JavaScript](https://img.shields.io/badge/JavaScript-EFD81B?style=for-the-badge&logo=javascript&logoColor=black) ![Jest](https://img.shields.io/badge/Jest-944058?style=for-the-badge&logo=jest&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  ![MongoDB](https://img.shields.io/badge/MongoDB-138D4D?style=for-the-badge&logo=mongodb&logoColor=white) |
+| [**MakersBnB**](https://github.com/RussellColes/makers_projects_MakersBnB)    | Oct/Nov 2024 | Team project creating a webapp to replicate AirBnB    | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-44BA4A?style=for-the-badge&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white) |
+
+
+
 
 ## Tech Training
 ### Makers Academy (_September 2024 - January 2025_)
